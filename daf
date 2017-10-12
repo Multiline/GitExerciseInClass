@@ -1,0 +1,130 @@
+[33mcommit 82853f249059579b1adacdb70323b5f961809514[m
+Author: hannesarn <hannesar@gmail.com>
+Date:   Thu Oct 12 17:34:16 2017 +0000
+
+    Blablablaaaa
+
+[33mcommit 93518a4923ac67dfb538bb079bc34423ba89fcd8[m
+Author: hannesarn <hannesar@gmail.com>
+Date:   Thu Oct 12 17:26:49 2017 +0000
+
+    Texti!
+
+[33mcommit d24e93fd212e1edcd7617ecdff7fb6af3ff9c710[m
+Merge: ea46a0b f5a9d18
+Author: hannesarn <hannesar@gmail.com>
+Date:   Thu Oct 12 17:24:30 2017 +0000
+
+    Merge branch 'master' of https://github.com/Multiline/GitExerciseInClass
+
+[33mcommit ea46a0b92105340e0f2781e44cd482879ebfd545[m
+Author: hannesarn <hannesar@gmail.com>
+Date:   Thu Oct 12 17:18:23 2017 +0000
+
+    Breyting!
+
+[33mcommit f5a9d180624fdc6f51b2b8d928e22a4c1d2a2a05[m
+Author: hjortur <hjortur>
+Date:   Thu Oct 12 17:16:41 2017 +0000
+
+    The ultimate sequel!
+
+[33mcommit e93f100ce96397d3b76e152822330ce707e5a98e[m
+Author: hannesarn <hannesar@gmail.com>
+Date:   Thu Oct 12 17:13:13 2017 +0000
+
+    Uppahaldsmyndin min (L)
+
+[33mcommit b864fc59405af336bf2027c86dfcfb4c97a65eac[m
+Merge: 0a4256f 6df05fc
+Author: thorgerdur13 <thorgerdur13@ru.is>
+Date:   Thu Oct 12 16:44:22 2017 +0000
+
+    Merge branch 'master-thorgerdur13'
+
+[33mcommit 6df05fc2c77c2f82ce18fca306ecad3b667d9be1[m
+Author: thorgerdur13 <thorgerdur13@ru.is>
+Date:   Thu Oct 12 16:39:11 2017 +0000
+
+    movie 2
+
+[33mcommit 0a4256fdcadf9dad3a5f06ab20ff83e62e68de4a[m
+Merge: 22ecabe ed13aea
+Author: hjortur <hjortur>
+Date:   Thu Oct 12 16:36:25 2017 +0000
+
+    Merge branch 'master' of https://github.com/Multiline/GitExerciseInClass
+
+[33mcommit 22ecabe277dc7343e7dfd011b1459e90cc05926b[m
+Author: hjortur <hjortur>
+Date:   Thu Oct 12 16:31:47 2017 +0000
+
+    Gott update!
+
+[33mcommit ed13aeaa14ffe85e534593b69cfd9391112e97f4[m
+Merge: 9f05e95 16bf0c8
+Author: thorgerdur13 <thorgerdur13@ru.is>
+Date:   Thu Oct 12 16:31:35 2017 +0000
+
+    Merge branch 'master' of github.com:Multiline/GitExerciseInClass
+
+[33mcommit 9f05e95d45e81f5ed2f849fa8997db2671f9cb8a[m
+Author: thorgerdur13 <thorgerdur13@ru.is>
+Date:   Thu Oct 12 16:28:05 2017 +0000
+
+    add movies
+
+[33mcommit 16bf0c87065fa6feb94efb65ebbe42c8bd6f44c0[m
+Author: sverrirbb <sverrirbb16@ru.is>
+Date:   Thu Oct 12 16:26:15 2017 +0000
+
+    Added The Matrix 6.
+
+[33mcommit 8293961ab9aa8cb093d974f51a658c143e09c432[m
+Merge: 20cb0fe 286944c
+Author: hjortur <hjortur>
+Date:   Thu Oct 12 16:23:28 2017 +0000
+
+    Merge branch 'master' of https://github.com/Multiline/GitExerciseInClass
+
+[33mcommit 20cb0fedc0d05fec7daa921da6158e080dbeea3d[m
+Author: hjortur <hjortur>
+Date:   Thu Oct 12 16:22:06 2017 +0000
+
+    Fyrir Hannes.
+
+[33mcommit 286944c92ea7aa89761983235586334e5c40075d[m
+Author: sverrirbb <sverrirbb16@ru.is>
+Date:   Thu Oct 12 16:21:46 2017 +0000
+
+    Added The Matrix 5
+
+[33mcommit 7ff3d74eedcc787e2f178ac02a3bb593fe4c4e79[m
+Author: hjortur <hjortur>
+Date:   Thu Oct 12 16:13:47 2017 +0000
+
+    Important update. Everyone check it out!
+
+[33mcommit b7d3534e242a1409b423ea26f28afebfa18d275d[m
+Author: sverrirbb <sverrirbb16@ru.is>
+Date:   Thu Oct 12 16:04:48 2017 +0000
+
+    Added The Matrix 3.
+
+[33mcommit cf86885669982659f65b22389e6565c9abb98979[m
+Author: sverrirbb <sverrirbb16@ru.is>
+Date:   Thu Oct 12 16:04:18 2017 +0000
+
+    Added The Matrix 2.
+
+[33mcommit 3e89764569d4be0aefb2383b816e08f685f644c7[m
+Author: sverrirbb <sverrirbb16@ru.is>
+Date:   Thu Oct 12 16:03:08 2017 +0000
+
+    Added The Matrix.
+
+[33mcommit 51a327205a7e6a1ef3153b61827a35757f111255[m
+Author: sverrirbb <sverrirbb16@ru.is>
+Date:   Thu Oct 12 15:58:59 2017 +0000
+
+    Initial commit
